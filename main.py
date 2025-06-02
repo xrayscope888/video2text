@@ -6,7 +6,7 @@ VIDEO_DIR = "./video"
 
 # Load Whisper model once
 print("🧠 Loading Whisper model...")
-model = whisper.load_model("medium")
+model = whisper.load_model("small")
 
 # Loop through all video files
 for filename in os.listdir(VIDEO_DIR):
