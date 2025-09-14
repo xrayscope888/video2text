@@ -5,6 +5,9 @@ This tool extracts audio from video files and transcribes the speech using [Open
 
 ---
 
+## Requirement
+
+
 ## 🚀 Features
 
 - Extracts mono audio from videos using `ffmpeg`
