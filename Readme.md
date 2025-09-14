@@ -6,7 +6,10 @@ This tool extracts audio from video files and transcribes the speech using [Open
 ---
 
 ## Requirement
+openai-whisper
+torch
 
+---
 
 ## 🚀 Features
 
